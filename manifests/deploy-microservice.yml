@@ -57,7 +57,7 @@ spec:
     rules:
         -   http:
                 paths:
-                    -   path: /mild-temper(/|$)(.*)
+                    -   path: /unprecedented-democracy(/|$)(.*)
                         backend:
                             serviceName: unprecedented-democracy-microservice-service
                             servicePort: 30201
