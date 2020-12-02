@@ -5,7 +5,7 @@ metadata:
         app: unprecedented-democracy-microservice
         stack: frontend
         source: demo
-    name: unprecedente-d-democracy-microservice
+    name: unprecedented-democracy-microservice
     namespace: microservices
 spec:
     replicas: 3
